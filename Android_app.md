@@ -4,6 +4,8 @@
 
 # 漫画
 
+1. [tachiyomi](https://github.com/inorichi/tachiyomi)
+
 2. [cimoc](https://github.com/feilongfl/Cimoc)
 
 # 阅读器

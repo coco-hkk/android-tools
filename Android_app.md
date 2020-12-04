@@ -5,6 +5,8 @@
 # 漫画
 
 1. [tachiyomi](https://github.com/inorichi/tachiyomi)
+- 源不够丰富
+- 挂VPN才能正常搜索漫画
 
 2. [cimoc](https://github.com/feilongfl/Cimoc)
 
